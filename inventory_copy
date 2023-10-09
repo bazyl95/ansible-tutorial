@@ -8,3 +8,6 @@ fedoraprox ansible_user=personal
 
 [file_servers]
 ubuntuprox1 ansible_user=personal
+
+[workstations]
+fedoraprox ansible_user=personal
