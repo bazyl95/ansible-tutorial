@@ -1,4 +1,4 @@
-ubuntuprox1 ansible_user=personal
-#ubuntuprox2 ansible_user=personal
-#ubuntuprox3 ansible_user=personal
-fedoraprox ansible_user=personal
+ubuntuprox1 ansible_user=personal apache_package=apache2 php_package=libapache2-mod-php
+#ubuntuprox2 ansible_user=personal apache_package=apache2 php_package=libapache2-mod-php
+#ubuntuprox3 ansible_user=personal apache_package=apache2 php_package=libapache2-mod-php
+fedoraprox ansible_user=personal apache_package=httpd php_package=php
