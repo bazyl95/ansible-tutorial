@@ -1,4 +1,4 @@
 ubuntuprox1 ansible_user=personal
-ubuntuprox2 ansible_user=personal
+#ubuntuprox2 ansible_user=personal
 #ubuntuprox3 ansible_user=personal
-#fedoraprox ansible_user=personal
+fedoraprox ansible_user=personal
