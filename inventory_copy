@@ -1,0 +1,10 @@
+[web_servers]
+ubuntuprox1 ansible_user=personal
+#ubuntuprox2 ansible_user=personal
+#ubuntuprox3 ansible_user=personal
+
+[db_servers]
+fedoraprox ansible_user=personal
+
+[file_servers]
+ubuntuprox1 ansible_user=personal
